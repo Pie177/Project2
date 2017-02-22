@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\EnemyTool.cs">
     <Files>
-      <File FileName="Assets\Editor\EnemyTool.cs" Line="118" Column="58" />
+      <File FileName="Assets\Editor\EnemyTool.cs" Line="185" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
